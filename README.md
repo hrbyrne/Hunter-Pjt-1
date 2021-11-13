@@ -53,13 +53,13 @@ Machines within the network can only be accessed by SSH with key.
 A summary of the access policies in place can be found in the table below.
 
 
-Name	Publicly Accessible	Allowed IP
-Jump Box	Yes	71.33.134.71
-Web 1 	No	
-Web 2	No	
-Web 3	No	
-Load Balancer	Yes	71.33.134.71
-Elk 	Yes	71.33.134.71
+Name	Publicly Accessible 	Allowed IP
+Jump Box	    Yes	             Home
+Web 1 	      No	
+Web 2       	No	
+Web 3	        No	
+Load Balancer	Yes	             Home
+Elk 	        Yes	             Home
 
 ### Elk Configuration
 
